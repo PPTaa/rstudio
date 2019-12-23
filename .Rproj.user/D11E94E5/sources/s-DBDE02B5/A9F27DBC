@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577066318148.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A9F27DBC",
+    "lastKnownWriteTime" : 1577063422,
+    "last_content_update" : 1577087128112,
+    "path" : "E:/Mulitcampus/Git_Repository/Rstudio/rStatic.R",
+    "project_path" : "rStatic.R",
+    "properties" : {
+        "cursorPosition" : "534,10",
+        "scrollLine" : "511"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
